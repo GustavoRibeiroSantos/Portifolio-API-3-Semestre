@@ -1,6 +1,6 @@
 # Score Wizard - API 3° Semestre
 
-API - FATEC Prof. Jessen Vidal - São José dos Campos / 2019
+API - FATEC Prof. Jessen Vidal - São José dos Campos / 2021
 
 # Resumo do projeto:
 O SPC, em parceria com os alunos do 3º semestre do curso de Banco de Dados da Fatec de SJC, necessita de um software para obter uma análise estatística da evolução do consumidor em relação ao histórico de pagamentos e da evolução da nota de score. Esse software é usado por qualquer pessoa física ou jurídica, que possua cadastro positivo e que, ao utilizá-lo, espera melhorar seu score de uma forma melhor do que as alternativas existentes no mercado. Espera também, obter dados de sua evolução financeira, a fim de contribuir para uma melhora de seu score, e, possivelmente, efetuar novas solicitações de crédito para as instituições financeiras.
@@ -27,9 +27,7 @@ Com isso, foi desenvolvido uma API Rest em Java. Esse software contém as seguin
 - Html5; 
   - O HTML5 foi a linguagem da programação usada para a criação das páginas webs do nosso projeto.
 - JavaScript:
-  - ; 
-- CSS:
-  - .
+  - A linguagem de JavaScript foi utilizada para auxiliar na criação do nosso front-end e na comunicação entre o front e o back.
 
 
 # Contribuições individuais/pessoais
