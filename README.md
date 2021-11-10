@@ -220,6 +220,7 @@ Eu fui o responsável por implementar essa ideia de gamificação, onde quando o
 
 
 # Aprendizados Efetivos
-Com base nas rotinas desenvolvidas, pode se  absorver o uso do generator para criar estados de codigo que serão aproveitados ao longo da execução, posteriormente foi cogitado o uso do pandas para tal, uma vez que ele lida com a manipulação de dataframes, logo, além de apresentar melhor desempenho ainda entrega uma serie de funções uteis e facilidades para o uso dos dados principalmente quando está aliado ao numpy.
-Para o caso do webbot, foi essencial o uso do wait para a espera dos eventos do navegador, e dessa maneira evitar erros relacionados a falta de algum elemento na pagina.
-Contudo, pode se afirmar que o real aprendizado se deu em relação ao inicio da manipulação dos dados contanto quase que exclsivamente das bibliotecas nativas da propria linguagem do python.
+Com base nas rotinas desenvolvidas, pode-se ser absorvido conhecimento sobre alguns pontos no back-end e front-end:
+- Como conectar o front com o back;
+- Melhorei muito meu conhecimento com java spring;
+- Entendi como funciona o Hibernate e como utiliz-lo.
